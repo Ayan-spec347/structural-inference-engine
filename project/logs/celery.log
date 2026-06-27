@@ -1,0 +1,14 @@
+[2026-06-27 20:47:36,251: INFO/MainProcess] Connected to redis://redis:6379/0
+[2026-06-27 20:47:36,256: INFO/MainProcess] mingle: searching for neighbors
+[2026-06-27 20:47:37,266: INFO/MainProcess] mingle: all alone
+[2026-06-27 20:47:37,275: INFO/MainProcess] celery@59f7c31f1804 ready.
+[2026-06-27 20:47:40,911: INFO/MainProcess] Events of group {task} enabled by remote.
+[2026-06-27 21:02:12,789: INFO/MainProcess] Connected to redis://redis:6379/0
+[2026-06-27 21:02:12,794: INFO/MainProcess] mingle: searching for neighbors
+[2026-06-27 21:02:13,803: INFO/MainProcess] mingle: all alone
+[2026-06-27 21:02:13,815: INFO/MainProcess] celery@9ee4a56329c3 ready.
+[2026-06-27 21:02:17,336: INFO/MainProcess] Events of group {task} enabled by remote.
+[2026-06-27 21:15:51,504: INFO/MainProcess] Connected to redis://redis:6379/0
+[2026-06-27 21:15:51,508: INFO/MainProcess] mingle: searching for neighbors
+[2026-06-27 21:15:52,519: INFO/MainProcess] mingle: all alone
+[2026-06-27 21:15:52,539: INFO/MainProcess] celery@f33ad7504a57 ready.
